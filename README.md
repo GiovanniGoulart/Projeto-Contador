@@ -1,2 +1,2 @@
-# Projeto Contador 
- Integração de um código Javascript com uma página HTML.
+# Conter project 
+ Integration of a Javascript code with an HTML page
